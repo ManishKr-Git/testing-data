@@ -1,0 +1,14 @@
+[
+  {
+    "entryId": "ENTRY-1786643180310",
+    "date": "2026-08-13",
+    "customerId": "CUST-1786643029252",
+    "customerName": "Manish",
+    "session": "morning",
+    "milkType": "cow",
+    "quantity": 1,
+    "unitPrice": 65,
+    "total": 65,
+    "createdAt": "2026-08-13T17:46:20.310Z"
+  }
+]

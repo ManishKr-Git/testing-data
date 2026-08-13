@@ -5,5 +5,12 @@
     "phone": "9785798853",
     "status": "active",
     "createdAt": "2026-08-13T17:43:49.252Z"
+  },
+  {
+    "id": "CUST-1786644866961",
+    "name": "Satish",
+    "phone": "9999999999",
+    "status": "active",
+    "createdAt": "2026-08-13T18:14:26.961Z"
   }
 ]
